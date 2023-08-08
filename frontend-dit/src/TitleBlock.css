@@ -1,0 +1,12 @@
+.title-block {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #343a40;
+    font-weight: 700;
+    color: #fff;
+    height: 10%;
+    padding: 0.5rem;
+    margin: 0;
+}

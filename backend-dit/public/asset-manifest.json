@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8fa124d.css",
+    "main.js": "/static/js/main.8f8ef350.js",
+    "static/media/background.jpg": "/static/media/background.dcd9b70f5771c3b2e5d1.jpg",
+    "static/media/wizard2.png": "/static/media/wizard2.5c5494ae0fc1aa96e6c8.png",
+    "static/media/wizard1.png": "/static/media/wizard1.321225dc343eb6d5d895.png",
+    "static/media/DragonHunter.otf": "/static/media/DragonHunter.bfd266123930ca81297a.otf",
+    "index.html": "/index.html",
+    "main.a8fa124d.css.map": "/static/css/main.a8fa124d.css.map",
+    "main.8f8ef350.js.map": "/static/js/main.8f8ef350.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8fa124d.css",
+    "static/js/main.8f8ef350.js"
+  ]
+}
