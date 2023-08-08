@@ -22,7 +22,7 @@ server.listen(port, function () {
 });
 
 app.use(express.static('public'));  // keeps the frontend part
-cd
+
 /*user's choices and stats*/
 let choices = []; // stores the user's choices
 let hideNum = 0;
